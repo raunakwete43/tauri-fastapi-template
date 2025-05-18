@@ -2,7 +2,7 @@
     "windows": {
         "command": "C:\\Users\\Raunak\\Projects\\JS\\tauri\\trial\\fastapi_backend\\.venv\\Scripts\\fastapi.exe",
         "args": [
-            "dev",
+            "run",
             "C:\\Users\\Raunak\\Projects\\JS\\tauri\\trial\\fastapi_backend\\app"
         ]
     },
