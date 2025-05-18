@@ -1,0 +1,23 @@
+{
+    "windows": {
+        "command": "C:\\Users\\Raunak\\Projects\\JS\\tauri\\trial\\fastapi_backend\\.venv\\Scripts\\fastapi.exe",
+        "args": [
+            "dev",
+            "C:\\Users\\Raunak\\Projects\\JS\\tauri\\trial\\fastapi_backend\\app"
+        ]
+    },
+    "macos": {
+        "command": "fastapi",
+        "args": [
+            "dev",
+            "./fastapi_backend/app"
+        ]
+    },
+    "linux": {
+        "command": "fastapi",
+        "args": [
+            "dev",
+            "./fastapi_backend/app"
+        ]
+    }
+}
